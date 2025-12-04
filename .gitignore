@@ -1,3 +1,10 @@
+# User-specific files
+/to_merge/
+/extracted_images/
+*.docx
+*.pdf
+*.tmp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
